@@ -1,6 +1,10 @@
 
 function App() {
-  return null;
+  return (
+    <div>
+      Hello
+    </div>
+  )
 }
 
 export default App;
